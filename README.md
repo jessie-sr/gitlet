@@ -103,5 +103,5 @@ java org.junit.runner.JUnitCore gitlet.TestingSuite
 
 ## Acknowledgments
 
-- This project was inspired by Git, the distributed version control system.
+- This project is based on Project 2 of UC Berkeley's Data Structures and Programming Methodology Course.
 - Thanks to the contributors who have helped shape this project.
